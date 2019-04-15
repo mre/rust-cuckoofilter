@@ -1,5 +1,13 @@
 # Cuckoo Filter
 
+**NOTE: This is derived from https://github.com/seiflotfy/rust-cuckoofilter.
+The original version by @seiflotfy is perfectly working, but 
+the latest master version (0.4) is not published on crates.io yet.
+In order to publish tinysearch, we publish our own version there.
+TODO: Switch to upstream version as soon as https://github.com/seiflotfy/rust-cuckoofilter/issues/30 is fixed.
+**
+
+
 [![Crates.io](https://img.shields.io/crates/v/cuckoofilter.svg?maxAge=2592000)](https://crates.io/crates/cuckoofilter)
 
 [Documentation](https://docs.rs/cuckoofilter)

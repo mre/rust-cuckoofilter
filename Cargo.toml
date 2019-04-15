@@ -1,5 +1,5 @@
 [package]
-name = "cuckoofilter"
+name = "tinysearch-cuckoofilter"
 version = "0.4.0"
 authors = ["Seif Lotfy <seif.lotfy@gmail.com>", "Lukas Kalbertodt <lukas.kalbertodt@gmail.com>", "Florian Jacob <accounts+git@florianjacob.de>"]
 
